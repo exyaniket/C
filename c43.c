@@ -2,9 +2,19 @@
 #include <stdio.h>
 int main(){
 
-int i;
+int i,n;
+float sum=0;
 
+printf("enter n terms : ");
+scanf("%d",&n);
 
+for (i=1;i<=n;i++)
+{
+    sum = sum+(1.0/i);
+
+}
+
+printf("%f",sum);
 
 
 
