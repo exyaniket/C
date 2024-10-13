@@ -1,3 +1,13 @@
+/*
+1
+12
+123
+12
+1
+*/
+
+
+
 #include <stdio.h>
 int main()
 {

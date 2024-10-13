@@ -47,7 +47,7 @@ int main() {
                 printf(" ");
             }
             printf("%d", i);
-        }
+        }       
         printf("\n");
     }
 

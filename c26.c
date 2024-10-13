@@ -1,3 +1,11 @@
+/*
+1
+00
+111
+0000
+*/
+
+
 #include <stdio.h>
 
 int main()

@@ -15,7 +15,7 @@ while (n>9)
     count++;
 }
 n=n/10;//548
-int b=n%pow(10,count-1)
+int b=n/pow(10,count-1);
 /*do
 {
     a=n/(pow(10,count));

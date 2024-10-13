@@ -1,3 +1,9 @@
+/*
+1
+10
+101
+1010
+*/
 #include <stdio.h>
 
 int main() {
