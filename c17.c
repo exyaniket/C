@@ -11,5 +11,3 @@ printf("Area of circle is : %.2f",r*3.14*r);
 
 
 }
-
-dskjgbjc
