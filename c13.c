@@ -15,8 +15,6 @@ printf("first %d terms of this A.P. : \n",n);
     for (int i=1;i<=n;i++)
     {
         an=a+(i-1)*d;
-        printf("%d \n",an);
+        printf("%5d",an);
     }
-
-
     }
