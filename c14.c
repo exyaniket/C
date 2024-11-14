@@ -16,7 +16,7 @@
     for (int i=1;i<=n;i++)
     {
         an=a*pow(r,i-1);
-        printf("%d \n",an);
+        printf("%5d",an);
     }
     
     
