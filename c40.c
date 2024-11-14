@@ -20,7 +20,7 @@ while (n>0)
 }
 
 printf("no of even digits : %d\n",even);
-printf("no of odd digits : %d",odd);
+printf("no of odd digits : %d\n",odd);
 
 
 }
